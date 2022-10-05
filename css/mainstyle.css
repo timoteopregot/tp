@@ -1,0 +1,23 @@
+body{padding: 5rem;}
+.recetario{ border: 2px solid black;
+padding: 1rem;}
+
+.tiempoPrep{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.rec-img{
+    text-align: center;
+}
+
+.receta{
+    width: 20rem;
+    height: 20rem;
+}
+
+.ingredientes{}
+
+.instrucciones{
+    padding: 1rem;
+}
