@@ -36,7 +36,7 @@ header{
 }
 
 header img{
-  height: 12rem;
+  height: 10rem;
   border-radius: 10rem;
   border: 1px solid black;
   box-shadow: 2px 3px 2px black;
@@ -46,14 +46,15 @@ div h3{
   font-family: 'Dancing Script', cursive;
   font-weight: bold;
   font-size:1.5rem;
+  margin: 0;
 }
 
 .card {
   background-color: whitesmoke;
   color: black;
-  border-radius: 8px;
+  border-radius: 10px;
   box-shadow: 2px 5px 3px black;
-  height: 25rem;
+  height: 22rem;
   width: 100%;
   
   
@@ -73,6 +74,11 @@ div h3{
    
 
    
+}
+
+.card a{
+  text-decoration: none;
+  
 }
 
 
@@ -108,7 +114,7 @@ div h3{
   }
   .card{
     width: 22rem;
-    height: 25rem;
+    height: 24rem;
   }
   header{
     text-align: center;
