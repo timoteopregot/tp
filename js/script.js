@@ -53,3 +53,12 @@ document.getElementById("cargar").onclick = function () { getPost(num1,num2,num3
 
 caja.className='dotBox'
 }
+
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
