@@ -241,12 +241,12 @@ main{
 }
 
 .ing{
-  padding-left: 1rem;
+ 
 }
 
 .ing li{
   list-style: circle;
-  margin: 0;
+  margin: auto;
 }
 
 .instrucciones{

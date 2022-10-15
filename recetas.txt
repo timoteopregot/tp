@@ -1,0 +1,457 @@
+#Recetas de cocina
+
+<h2 class="title">Guiso de lentejas (tradicional)</h2>
+<div class="instrucciones"></div>
+<br>
+<div class="dificultad tiempoPrep ">
+          <h3>Dificultad </h3></div>
+<div style="text-align:center ;">
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+        </div>
+<br>
+<div class="tiempoPrep"><h3>Ingredientes</h3>
+        </div>
+<div class="ingredientes">
+            <ul class="ing">
+                <li>lentejas/lentejon 500 GR</li>
+                <li>roast beef 300 GR</li>
+                <li>carre de cerdo 200 GR</li>
+                <li>cebolla blanca 1 u</li>
+                <li>morron rojo 1 u</li>
+                <li>zanahoria 1 u</li>
+                <li>panceta 100 GR</li>
+                <li>chorizo colorado 1 u</li>
+                <li> tomate triturado 300 GR</li>
+                <li>caldo de carne/vegetales 1 lt</li>
+                <li>extracto de tomate 1 cdita</li>
+                <li>ajo picado 1 cdita</li>
+                <li>papa mediana 1 u</li>
+                <li>calabaza 100 gr</li>
+                <li>batata 1 u.</li>					
+            </ul>
+        </div>
+<div class="instrucciones">
+          <h3 class="tiempoPrep">Instrucciones:</h3> dejar las lentejas en agua durante 1 noche.
+
+           Cortar las carnes en cubos de 1 bocado y dorar.
+Cortar la panceta en cubos y dorar. 
+           Seguir con el chorizo colorado y dorar también. Reservar.
+ 
+           Picar los vegetales en cubos no tan pequeños y saltear en la misma olla que las carnes. 
+           Agregar el ajo picado y el extracto de tomate.
+ Sumar el tomate triturado y las carnes. 
+           Cocinar y rectificar de condimentos.
+Sumar el caldo y las lentejas previamente hidratadas.
+
+           Sumar las papas en cubos, la calabaza y la batata también en cubos. Cocinar hasta tiernizar todo.
+          
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+<h2 class="title">Empandas de pollo</h2>
+<div class="instrucciones"></div>
+<br>
+<div class="dificultad tiempoPrep ">
+          <h3>Dificultad </h3></div>
+<div style="text-align:center ;">
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+        </div>
+<br>
+<div class="tiempoPrep"><h3>Ingredientes</h3>
+        </div>
+<div class="ingredientes">
+            <ul class="ing">
+                <li>600 g de harina</li>
+                <li>270 g de agua tibia</li>
+                <li>100 g de aceite de oliva virgen extra</li>
+                <li>1 cdta. de sal</li>
+                <li>2 Cdas. de aceite de oliva virgen extra</li>
+                <li>500 g de pechuga de pollo (2 pechugas)</li>
+                <li>1+½ tazas de caldo de cocer las pechugas de pollo</li>
+                <li>1 cebolla grande, picada finamente</li>
+                <li>1 pimiento rojo</li>
+                <li>1/3 taza de aceitunas verdes y negras, en trocitos</li>
+                <li>1/2 cdta. de pimentón dulce</li>
+                <li>1/2 cdta. de comino</li>
+                <li>3 huevos cocidos</li>
+                <li>2-3 Cdas. de pasas</li>
+                <li>Sal y pimienta molida al gusto</li>					
+            </ul>
+        </div>
+<div class="instrucciones">
+          <h3 class="tiempoPrep">Instrucciones:</h3> Para la masa de las empanadas <br>
+          En un bol calienta la mitad del agua con la sal durante unos segundos en el microondas, remueve hasta que la sal se disuelva. 
+          Añade el resto del agua y el aceite. Echa la harina y 1 cdta. de sal. 
+          Mezcla bien hasta formar una masa compacta, haz una bola y tapa el recipiente con film para dejarla reposar en la nevera un mínimo de 30 minutos. 
+          Puedes guardar esta masa en la nevera hasta 2 días.
+          Mientras tanto, prepara el relleno de las empanadas. 
+          Cuece las pechugas de pollo en una cazuela con agua y sal, cuando rompa a hervir dejar unos 20’ (dependiendo del tamaño de la pechuga). 
+          Reserva por un lado el líquido de cocción y por otra parte el pollo. 
+          Cuando esté templado desmenúzalo en trozos con las manos. En otro cazo cuece los huevos durante 12 minutos. Pélalos cuando estén templados y reserva.
+          Mientras, coloca una sartén al fuego con 2 Cdas. de aceite de oliva y sofríe la cebolla durante 5’. Después añade el pimiento, un poco de sal y cocina 5’ más.
+          Incorpora el pollo desmenuzado, 1 + ½ tazas del líquido de cocción y las especias. Cocina a fuego medio durante 15’ o hasta que no quede casi caldo. 
+          Entonces añade las aceitunas, las pasas y el huevo cocido partido en trozos. 
+          Revolvemos todo el relleno y dejamos enfriar para poder rellenar las empanadas.
+          Enharinamos la encimera de la cocina y estiramos la masa con el rodillo hasta que nos quede con un espesor de 3-4 mm. 
+          Cortamos las empanadillas utilizando un bol o plato para marcar el círculo de unos 10-12 cm de diámetro.
+          Para rellenar las empanadas coge un disco de masa coloca una o dos cucharadas del relleno en una de las mitades del disco y moja con agua los bordes de esa mitad. 
+          Dobla por la mitad para cerrarlas y ahora toca hacer el repulgue o como aquí diríamos cerrar la empanada. 
+          Podemos hacer el típico trenzado de las empanadillas argentinas o el cierre más básico que consiste en aplastar el borde usando un tenedor.
+          Coloca las empanadas sobre una bandeja de horno con papel vegetal y hornéalas durante 20-30’ a 220º con el horno previamente precalentado.
+          Si queréis puedes congelar algunas empanadillas antes de hornearlas y así las tendrás listas para otro día. 
+          Colócalas sobra una bandeja o un plato que te quepa en el congelador y deja que se congelen por completo. 
+          Después puedes guardarlas en una bolsa con cierre hermético para que ocupen menos.
+          
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+<h2 class="title">Bolognesa de lentejas(vegana)</h2>
+<div class="instrucciones"></div>
+<br>
+<div class="dificultad tiempoPrep ">
+          <h3>Dificultad </h3></div>
+<div style="text-align:center ;">
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+        </div>
+<br>
+<div class="tiempoPrep"><h3>Ingredientes</h3>
+        </div>
+<div class="ingredientes">
+            <ul class="ing">
+                <li>1 cebolla grande</li>
+                <li>3 dientes de ajo</li>
+                <li>2 zanahorias</li>
+                <li>1 calabacín</li>
+                <li>150 gr de champiñones (opcional, puedes no ponerlos)</li>
+                <li>400 gr lentejas cocidas</li>
+                <li>Salsa de tomate (cantidad al gusto)</li>
+                <li>1 cucharada de orégano</li>
+                <li>1 cucharada de albahaca</li>
+                <li>Sal</li>					
+            </ul>
+        </div>
+<div class="instrucciones">
+          <h3 class="tiempoPrep">Instrucciones:</h3> Pica muy fino la cebolla, los ajos y las zanahorias. 
+           Rehógalos en una sartén con un poco de aceite. 
+           Cuando empiecen a ablandarse añade el calabacín cortado en daditos muy pequeños, y los champis muy picaditos.
+           Cocina hasta que esté todo bien hecho.
+           Añade las lentejas cocidas. Mezcla bien y pon salsa de tomate a tu gusto. Añade sal, orégano y albahaca. 
+           Déjalo a fuego medio 10 minutos. Si quieres camuflar las lentejas aplástalas un poco con un tenedor. 
+           Prueba como está de sal y especias y rectifica lo que consideres. Ya tienes lista tu boloñesa vegetariana de lentejas.
+          
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+#recetas de reposteria
+
+<h2 class="title>"Panqueques con dulce de leche</h2>
+<div class="instrucciones"></div>
+<br>
+<div class="dificultad tiempoPrep ">
+          <h3>Dificultad </h3></div>
+<div style="text-align:center ;">
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+        </div>
+<br>
+<div class="tiempoPrep"><h3>Ingredientes</h3>
+        </div>
+<div class="ingredientes">
+            <ul class="ing">
+                <li>2 huevos</li>
+                <li>220 gr harina</li>
+                <li>1/2 litro leche</li>
+                <li>Esencia de vainilla</li>
+                <li>3 cdas de azúcar</li>
+                <li>200 gr dulce de leche</li>
+                <li>azúcar impalpable c/n para espolvorear</li>
+                <li>caramelo liquido</li>					
+            </ul>
+        </div>
+<div class="instrucciones">
+          <h3 class="tiempoPrep">Instrucciones:</h3> Batir los huevos con el azúcar, agregar la leche y la esencia de vainilla y por último la harina, 
+          mezclar bien hasta obtener una masa líquida pero bien homogénea, sin grumos. 
+          Dejar descansar unos minutos. Lo ideal sería media hora en la heladera para que los ingredientes se integren bien.
+          Calentar una sartén con un trocito de manteca una vez caliente colocar dos cucharadas de la preparación, esparcir por hasta cubrir el fondo de la sartén. 
+          Cuando este cocido dar la vuelta con ayuda de un cuchillo o espátula. Dejar unos minutos y retirar.
+          Servir untados con dulce de leche, caramelo líquido por encima, espolvoreados con azúcar impalpable. Enrollar y servir calientes. 
+          Se los puede acompañar con bocha de helado de crema americana, nuez, de almendras, de pistacho o el sabor que prefieras.
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+<h2 class="title">Alfajores (tradicional)</h2>
+<div class="instrucciones"></div>
+<br>
+<div class="dificultad tiempoPrep ">
+          <h3>Dificultad </h3></div>
+<div style="text-align:center ;">
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+        </div>
+<br>
+<div class="tiempoPrep"><h3>Ingredientes</h3>
+        </div>
+<div class="ingredientes">
+            <ul class="ing">
+                <li>100 g. mantequilla</li>
+                <li>100 g. azúcar molido o azúcar glass</li>
+                <li>3 huevos</li>
+                <li>1 limón</li>
+                <li>100 g. harina trigo</li>
+                <li>200 g. fécula o almidón de maíz</li>
+                <li>½ cdta. levadura</li>
+                <li>½ cdta. sal</li>
+                <li>250 gr dulce de leche</li>
+                <li>30 g. de coco rallado</li>					
+            </ul>
+        </div>
+<div class="instrucciones">
+          <h3 class="tiempoPrep">Instrucciones:</h3> En un bol tamizas los dos tipos de harina, la de trigo y la de maíz con la levadura y la sal. 
+          Reservas.
+          En un bol, y con la ayuda de un tenedor, mezclas bien la mantequilla a temperatura ambiente con el azúcar. 
+          Mezclas bien hasta que quede una crema. Lavas bien el limón (secas) y rallas sin llegar a la parte blanca y lo Incorporas al bol con la esencia de vainilla. Añades la yema de huevo. Después un huevo entero y una vez batido. Incorporas a la mantequilla con el tenedor o unas varillas.
+          Agregas la harina y mezclas bien con el tenedor hasta que tengas una masa homogénea y muy blanda. No es necesario amasar, se trata simplemente de mezclar bien todos los ingredientes.
+          Colocas la masa, envuelta en papel transparente, en la nevera durante 20 minuto.
+          Espolvoreas una superficie de trabajo con abundante harina. Colocas parte de la masa sobre la superficie de trabajo. Con un rodillo enharinado, estiras hasta que tenga un grosor de medio centímetro.
+          Con un cortante o un vaso, haces las porciones de los alfajores de unos 5 o 6 cm. de diámetro.
+          Precalientas el horno a 155º C con calor arriba y abajo y sin ventilador. Colocas los alfajores en una bandeja de horno sobre papel de hornear, con mucho cuidado de no deformarlos.
+          Horneas durante 7 u 8 minutos a 155º C y retiras a una rejilla hasta que se hayan enfriado totalmente.
+          Una vez que las tapas de nuestros alfajores están fríos, rellenamos con una cucharada de dulce de leche. Por último rebozas los laterales con coco rallado al gusto.
+          
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+<h2 class="title">Tarta de chocolate(vegana)</h2>
+<div class="instrucciones"></div>
+<br>
+<div class="dificultad tiempoPrep ">
+          <h3>Dificultad </h3></div>
+<div style="text-align:center ;">
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+        </div>
+<br>
+<div class="tiempoPrep"><h3>Ingredientes</h3>
+        </div>
+<div class="ingredientes">
+            <ul class="ing">
+                <li>175 g galletas veganas tipo Digestive (biscuits)</li>
+                <li>70 g aceite de coco derretido</li>
+                <li>250 g chocolate sin lácteos</li>
+                <li>1 taza de leche vegetal, muy caliente (soya, almendras, coco, etc.)</li>
+                <li>2-4 cdas miel de maple o agave* ajusta de acuerdo al dulzor de tu chocolate</li>
+                <li> 1 cdita extracto de vainilla</li>
+                <li>Pizquita de sal</li>
+                <li>22 frambuesas opcionales</li>					
+            </ul>
+        </div>
+<div class="instrucciones">
+          <h3 class="tiempoPrep">Instrucciones:</h3>Para preparar la corteza, pulveriza las galletas y mezcla con el aceite de coco derretido. 
+          Transfiere a un molde desmontable y presiona la mezcla con un vaso para compactarla tanto en el fondo como en las paredes del molde. 
+          Lleva al congelador por 20 minutos.
+          En un tazón mediano, agrega el chocolate en trozos y vierte la leche muy caliente. 
+          Deja reposar un par de minutos para que el chocolate comience a derretirse.
+          Mezcla con un globo hasta disolver el chocolate por completo. 
+          Añade la miel de maple o agave (agrega una cucharada a la vez y prueba hasta que quede a tu gusto de dulce), vainilla, pizquita de sal y mezcla hasta integrar por completo.
+          Extrae la corteza del congelador. Coloca las frambuesas en toda la orilla del interior de la corteza.
+          Vacía la mezcla del chocolate y lleva al congelador por 6-8 horas o hasta que se solidifique (también puedes refrigerarla, sólo tomará un poco más de tiempo para solidificar).
+          Retira del congelador o refrigerador y decora al gusto.
+          Conserva la tarta en el refrigerador o congelado. Puedes sustituir por el edulcorante de tu preferencia, sólo ten cuidado con la cantidad para que quede a tu gusto de dulce.
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+
+#Dietoterapia: Recetas con una combinación óptima de nutrientes y la identificación de los aspectos claves para prevenir, tratar o curar algunas enfermedades.
+
+<h2 class="title">Tortilla española (diabéticos)</h2>
+<div class="instrucciones"></div>
+<br>
+<div class="dificultad tiempoPrep ">
+          <h3>Dificultad </h3></div>
+<div style="text-align:center ;">
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+        </div>
+<br>
+<div class="tiempoPrep"><h3>Ingredientes</h3>
+        </div>
+<div class="ingredientes">
+            <ul class="ing">
+                <li>5 papas pequeñas, peladas y cortadas (alrededor de 1 ¼ libra de peso en total)</li>
+                <li>Aceite vegetal para cocinar en spray</li>
+                <li>½ cebolla mediana picada finamente</li>
+                <li>1 calabacín verde pequeño cortado en rodajas</li>
+                <li>1 ½ taza de pimientos verdes o rojos cortados en rodajas finas</li>
+                <li> 5 champiñones medianos en rodajas</li>
+                <li>3 huevos enteros batidos</li>
+                <li>5 claras de huevo batidas</li>
+                <li> Pimienta y sal de ajo con hierbas a gusto</li>
+                <li>3 onzas de queso mozzarella de bajo contenido graso rallado</li>
+                <li>1 cucharada de queso parmesano de bajo contenido graso</li>					
+            </ul>
+        </div>
+<div class="instrucciones">
+          <h3 class="tiempoPrep">Instrucciones:</h3>Precaliente el horno a 375 °F.
+          Cocine las papas en agua hirviendo hasta que se ablanden.
+          En una sartén antiadherente, rocíe el aceite vegetal y caliente a fuego medio.
+          Añada la cebolla y sofría hasta que se dore. Añada las verduras y sofría hasta 
+          que se ablanden, pero sin dorarlas.
+          En un recipiente mediano, bata ligeramente los huevos y las claras de huevo, la pimienta, la sal de ajo y el 
+          queso mozzarella de bajo contenido graso. Añada la mezcla de huevos con queso a las verduras cocidas.
+          Rocíe el aceite vegetal en una cacerola para hornear de 10 pulgadas o en una sartén que se pueda meter al horno 
+          y vierta en ella la mezcla de huevos y papas. Esparza por encima el queso parmesano de bajo contenido graso y 
+          hornee la tortilla hasta que esté firme y dorada en la superficie, entre 20 y 30 minutos.
+          Saque la tortilla del horno, déjela enfriar por 10 minutos y corte en cinco pedazos.
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<h2 class="title">Alfajores de almendras sin gluten (celiacos)</h2>
+<div class="instrucciones"></div>
+<br>
+<div class="dificultad tiempoPrep ">
+          <h3>Dificultad </h3></div>
+<div style="text-align:center ;">
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+        </div>
+<br>
+<div class="tiempoPrep"><h3>Ingredientes</h3>
+        </div>
+<div class="ingredientes">
+            <ul class="ing">
+                <li>120 g de premezcla o mix de harinas sin gluten.
+</li>
+                <li>40 g de harina de almendras.</li>
+                <li>50 g de mascabo</li>
+                <li>Una cdta de polvo de hornear</li>
+                <li>50 g de manteca</li>
+                <li>Un huevo</li>
+                <li>Dulce de leche repostero</li>
+                <li>Almendras activadas y picaditas</li>				
+            </ul>
+        </div>
+<div class="instrucciones">
+          <h3 class="tiempoPrep">Instrucciones:</h3>Mezclar todos los secos en un bowl, agregar la manteca fría cortada en cubitos e ir integrando, 
+          deshaciendo la manteca con los dedos hasta formar un arenado. Agregar el huevo y amasar hasta tener un bollo tiernito. 
+          Estirar entre papel film y llevar a la heladera o freezer hasta que la masa quede súper firme. 
+          Cortar las tapitas y llevar al horno precalentado en 180º durante 10 minutos.
+          Rellenar con mucho dulce de leche y pasar por las almendras picaditas para dar el toque crunchy final.
+          Podés reemplazar las almendras por cualquier fruto seco que te guste.          
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+<h2 class="title">Natillas sin lactosa (intolerancia a la lactosa)</h2>
+<div class="instrucciones"></div>
+<br>
+<div class="dificultad tiempoPrep ">
+          <h3>Dificultad </h3></div>
+<div style="text-align:center ;">
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-solid fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+          <i class="fa-regular fa-star"></i>
+        </div>
+<br>
+<div class="tiempoPrep"><h3>Ingredientes</h3>
+        </div>
+<div class="ingredientes">
+            <ul class="ing">
+                <li>Leche o bebida de soja o leche sin lactosa 600 ml
+</li>
+                <li>1 Vaina de vainilla </li>
+                <li>1 Canela en rama</li>
+                <li>2 Huevo</li>
+                <li>2 Yema de huevo</li>
+                <li>Azúcar 80 gr</li>
+                <li>Maizena 10 gr</li>
+                <li>Sal 1 pizquita</li>
+                <li>Canela molida al gusto</li>
+                <li>Galletas tipo María o caramelizada al gusto</li>
+                <li>Crocanti de avellana o almendra al gusto</li>				
+            </ul>
+        </div>
+<div class="instrucciones">
+          <h3 class="tiempoPrep">Instrucciones:</h3>Poner la leche en un cazo al fuego con la vainilla abierta y la rama de canela. 
+          Si la vaina es muy grande y bien aromática, nos puede bastar con usar la mitad. 
+          Calentar a fuego suave y apartar del fuego justo antes de que hierva. Retirar los aromáticos.
+          Aparte batir los huevos y las yemas -mejor utilizar de gallinas camperas- con el azúcar, la maizena y la sal. 
+          Cuando no tenga grumos, echar a la leche y devolver al fuego. Calentar a temperatura baja, removiendo constantemente sin llegar a hervir, hasta que espese.
+          El tiempo final puede variar según el tipo de leche o los huevos; también depende de la consistencia final que nos guste. Además hay que tener en cuenta que al enfriarse espesará más.
+          Repartir en cuencos -salen 4 raciones generosas o 6 más pequeñas-, pasándola por un tamiz o colador si queremos asegurar una textura bien fina. 
+          Dejar enfriar un poco antes de guardarlas en la nevera. 
+          Servir con la típica galleta maría, o galletas trituradas, canela molida o frutos secos.         
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
