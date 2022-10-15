@@ -172,12 +172,12 @@ main{
 }
 
 .pad6{
-  padding: 6rem;
+  padding: 6%;
 }
 
 .pad10{
-  padding-left: 10rem;
-  padding-right: 10rem;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .FrecipeTit{
@@ -594,6 +594,44 @@ width: 80%;
   font-size: 2rem;
   text-align: center;
   font-weight: bold;
+}
+
+.pad6{
+  padding: 6rem;
+}
+
+.pad10{
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+
+.FrecipeTit{
+
+  text-align: center;
+  margin: auto;
+  font-size: 3rem;
+  font-weight: bolder;
+  font-family: 'Dancing Script', cursive;
+  padding-bottom: 5rem;
+
+
+}
+
+.centered{
+  margin: auto;
+  text-align: center;
+}
+
+.recipeTit{
+
+  text-align: center;
+  margin: auto;
+  font-size: 3rem;
+  font-weight: bolder;
+  font-family: 'Dancing Script', cursive;
+  padding-bottom: 3rem;
+
+
 }
 
 
