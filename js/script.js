@@ -25,7 +25,8 @@ function getPost(a,b,c) {
     .then(response => response.json())
 
     // trabaja sobre el archivo que recibe como respuesta
-    .then(response => {
+    .then(response => 
+      {
         //imprime el dato por consola
         console.log(response[a].email)
         console.log(response[b].email)
